@@ -23,6 +23,7 @@ Read more on: [Gesture translator website](https://gesturetr.github.io/Gesture-w
 
 ## General info
 
+App can be run on any device with Python interpreter. 
 Important: to run application you need to have installed Python 2.7 and PyQt toolkit.  
 
 
